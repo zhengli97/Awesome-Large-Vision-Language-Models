@@ -32,6 +32,13 @@ A curated list of large vision language models and related works.
 - `LLaVa-CoT` **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step.** arxiv.   
   [[Paper](https://arxiv.org/abs/2411.10440)] [[Code](https://github.com/PKU-YuanGroup/LLaVA-CoT)]
 
+## VLM for Videos
+
+- `Valley` **Valley: Video Assistant with Large Language model Enhanced abilitY.** arxiv 23.   
+[[Paper](https://arxiv.org/abs/2306.07207)] [[Code](https://github.com/bytedance/Valley)]   
+- `Valley2` **Valley2: Exploring Multimodal Models with Scalable Vision-Language Design.** arxiv 25.   
+[[Paper](https://arxiv.org/abs/2501.05901)] [[Code](https://github.com/bytedance/Valley)]   
+
 ## Datasets
 
 - `ShareGPT4V` **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions.** ECCV 2024.   
