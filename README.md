@@ -29,8 +29,14 @@ A curated list of large vision language models and related works.
   [[Paper](https://arxiv.org/abs/2310.03744)] [[Code](https://github.com/haotian-liu/LLaVA)]   
 - `Prismatic VLMs` **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** ICML 2024.   
   [[Paper](https://arxiv.org/abs/2402.07865)] [[Code](https://github.com/TRI-ML/prismatic-vlms)]
+
+## CoT
+
 - `LLaVa-CoT` **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step.** arxiv.   
-  [[Paper](https://arxiv.org/abs/2411.10440)] [[Code](https://github.com/PKU-YuanGroup/LLaVA-CoT)]
+  [[Paper](https://arxiv.org/abs/2411.10440)] [[Code](https://github.com/PKU-YuanGroup/LLaVA-CoT)]   
+- `CoMT` **CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models.** AAAI 2025.   
+  [[Paper](https://arxiv.org/abs/2412.12932)]
+
 
 ## VLM for Videos
 
