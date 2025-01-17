@@ -14,7 +14,7 @@ A curated list of large vision language models and related works.
   [[Paper](https://arxiv.org/abs/2303.15343)] [[Code](https://github.com/google-research/big_vision)]  
 - `AlphaCLIP` **Alpha-CLIP: A CLIP Model Focusing on Wherever You Want.** CVPR 2024.  
   [[Paper](https://arxiv.org/abs/2312.03818)] [[Code](https://github.com/SunzeY/AlphaCLIP)] 
-- `LongCLIP` **Long-CLIP: Unlocking the Long-Text Capability of CLIP** ECCV 2024.  
+- `LongCLIP` **Long-CLIP: Unlocking the Long-Text Capability of CLIP.** ECCV 2024.  
   [[Paper](https://arxiv.org/abs/2403.15378)] [[Code](https://github.com/beichenzbc/Long-CLIP)]
 
 ## Large VLM Models
@@ -27,7 +27,7 @@ A curated list of large vision language models and related works.
   [[Paper](https://arxiv.org/abs/2304.08485)] [[Code](https://github.com/haotian-liu/LLaVA)]   
 - `LLaVa-1.5` **Improved Baselines with Visual Instruction Tuning.** CVPR 2024.   
   [[Paper](https://arxiv.org/abs/2310.03744)] [[Code](https://github.com/haotian-liu/LLaVA)]   
-- `Prismatic VLMs` **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** ICML 2024.   
+- `Prismatic VLMs` **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models.** ICML 2024.   
   [[Paper](https://arxiv.org/abs/2402.07865)] [[Code](https://github.com/TRI-ML/prismatic-vlms)]
 
 ## CoT
