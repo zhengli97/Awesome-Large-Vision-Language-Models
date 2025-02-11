@@ -45,6 +45,13 @@ A curated list of large vision language models and related works.
 - `Valley2` **Valley2: Exploring Multimodal Models with Scalable Vision-Language Design.** arxiv 25.   
 [[Paper](https://arxiv.org/abs/2501.05901)] [[Code](https://github.com/bytedance/Valley)]   
 
+## Reasoning Segmentation
+
+- `LISA` LISA: Reasoning Segmentation via Large Language Model. CVPR 2024.   
+[[Paper](https://arxiv.org/abs/2308.00692)] [[Code](https://github.com/dvlab-research/LISA?tab=readme-ov-file)]    
+- `LISA++` LISA++: An Improved Baseline for Reasoning Segmentation with Large Language Model. arxiv 23.   
+[[Paper](https://arxiv.org/abs/2312.17240)] [[Code](https://github.com/dvlab-research/LISA?tab=readme-ov-file)]   
+
 ## Datasets
 
 - `ShareGPT4V` **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions.** ECCV 2024.   
