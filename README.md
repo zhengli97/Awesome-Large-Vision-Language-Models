@@ -51,6 +51,9 @@ A curated list of large vision language models and related works.
 [[Paper](https://arxiv.org/abs/2308.00692)] [[Code](https://github.com/dvlab-research/LISA?tab=readme-ov-file)]    
 - `LISA++` LISA++: An Improved Baseline for Reasoning Segmentation with Large Language Model. arxiv 23.   
 [[Paper](https://arxiv.org/abs/2312.17240)] [[Code](https://github.com/dvlab-research/LISA?tab=readme-ov-file)]   
+- `VISA` VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV 24.   
+[[Paper](https://arxiv.org/abs/2407.11325)] [[Code](https://github.com/cilinyan/VISA?tab=readme-ov-file)]   
+
 
 ## Datasets
 
