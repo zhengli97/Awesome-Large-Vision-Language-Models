@@ -54,6 +54,10 @@ A curated list of large vision language models and related works.
 - `VISA` VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV 24.   
 [[Paper](https://arxiv.org/abs/2407.11325)] [[Code](https://github.com/cilinyan/VISA?tab=readme-ov-file)]   
 
+### Compression
+- `VoCo` VoCo-LLaMA: Towards Vision Compression with Large Language Models. CVPR 2025.   
+[[Paper](https://arxiv.org/abs/2406.12275v2)] [[Code](https://github.com/Yxxxb/VoCo-LLaMA)]   
+
 
 ## Datasets
 
