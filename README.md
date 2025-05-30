@@ -95,19 +95,25 @@ A curated list of large vision language models and related works.
 [[Paper](https://arxiv.org/abs/2411.15851)] [[Code](https://github.com/yvhangyang/ResCLIP)]
 
 ## Compression & Acceleration
+- `FastV` An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models. ECCV 2024.   
+[[Paper](https://arxiv.org/abs/2403.06764)] [[Code](https://github.com/pkunlp-icler/FastV)]   
+- `SparseVLM` SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference. ICML 2025.   
+[[Paper](https://arxiv.org/abs/2410.04417)] [[Code](https://github.com/Gumpest/SparseVLMs)]   
 - `VoCo` VoCo-LLaMA: Towards Vision Compression with Large Language Models. CVPR 2025.    
 [[Paper](https://arxiv.org/abs/2406.12275v2)] [[Code](https://github.com/Yxxxb/VoCo-LLaMA)]    
-- `FastVLM` FastVLM: Efficient Vision Encoding for Vision Language Models. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2412.13303)] [[Code](https://github.com/apple/ml-fastvlm)]   
-- `SGL` A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs. CVPR 2025.    
-[[Paper](https://arxiv.org/abs/2412.03324)] [[Code](https://github.com/NUS-HPC-AI-Lab/SGL)]    
+- `FastVLM` FastVLM: Efficient Vision Encoding for Vision Language Models. CVPR 2025.    
+[[Paper](https://arxiv.org/abs/2412.13303)] [[Code](https://github.com/apple/ml-fastvlm)]    
+- `SGL` A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs. CVPR 2025.     
+[[Paper](https://arxiv.org/abs/2412.03324)] [[Code](https://github.com/NUS-HPC-AI-Lab/SGL)]   
+- `Pyramid Drop` PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction. CVPR 2025.   
+[[Paper](https://arxiv.org/abs/2410.17247)] [[Code](https://github.com/Cooperx521/PyramidDrop)]   
 
 ## Medical Image
 - `BrainMVP` Multi-modal Vision Pre-training for Medical Image Analysis. CVPR 2025.   
 [[Paper](https://arxiv.org/abs/2410.10604)] [[Code](https://github.com/openmedlab/BrainMVP)]   
 - `BiomedCoOp` BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models. CVPR 2025.   
 [[Paper](https://arxiv.org/abs/2411.15232)][[Code](https://github.com/HealthX-Lab/BiomedCoOp)]]   
-- `` Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation. CVPR 2025.   
+- Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation. CVPR 2025.   
 [[Paper](https://arxiv.org/abs/2503.06976)] [Code(Not Provided)]    
 
 ## Safety
