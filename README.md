@@ -95,6 +95,8 @@ A curated list of large vision language models and related works.
 [[Paper](https://arxiv.org/abs/2411.15851)] [[Code](https://github.com/yvhangyang/ResCLIP)]
 
 ## Compression & Acceleration
+- `ToMe` Token Merging: Your ViT But Faster. ICLR 2023.   
+[[Paper](https://arxiv.org/abs/2210.09461)] [[Code](https://github.com/facebookresearch/ToMe)]   
 - `FastV` An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models. ECCV 2024.   
 [[Paper](https://arxiv.org/abs/2403.06764)] [[Code](https://github.com/pkunlp-icler/FastV)]   
 - `SparseVLM` SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference. ICML 2025.   
@@ -107,6 +109,14 @@ A curated list of large vision language models and related works.
 [[Paper](https://arxiv.org/abs/2412.03324)] [[Code](https://github.com/NUS-HPC-AI-Lab/SGL)]   
 - `Pyramid Drop` PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction. CVPR 2025.   
 [[Paper](https://arxiv.org/abs/2410.17247)] [[Code](https://github.com/Cooperx521/PyramidDrop)]   
+
+arxiv:
+- `PruMerge` LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models. arxiv 24.
+[[Paper](https://arxiv.org/abs/2403.15388)] [[Code](https://llava-prumerge.github.io/)]   
+- `YOPO` Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See. arxiv 24.   
+[[Paper](https://arxiv.org/abs/2410.06169)] [[Code](https://github.com/ZhangAIPI/YOPO_MLLM_Pruning)]   
+- `LRS-VQA` When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning. arxiv 25.   
+[[Paper](https://arxiv.org/abs/2503.07588)] [[Code](https://github.com/VisionXLab/LRS-VQA)]   
 
 ## Medical Image
 - `BrainMVP` Multi-modal Vision Pre-training for Medical Image Analysis. CVPR 2025.   
