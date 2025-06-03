@@ -7,31 +7,33 @@ A curated list of large vision language models and related works.
 - `CLIP` Learning Transferable Visual Models From Natural Language Supervision. ICML 2021.  
   [[Paper](https://arxiv.org/abs/2103.00020)] [[Code](https://github.com/OpenAI/CLIP)]  
 - `ALIGN` Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision. ICML 2021.  
-  [[Paper](https://arxiv.org/abs/2102.05918)]
+  [[Paper](https://arxiv.org/abs/2102.05918)]   
 - `LiT` LiT: Zero-Shot Transfer with Locked-image text Tuning. CVPR 2022.   
-  [[Paper](https://arxiv.org/abs/2111.07991)] [[Code](https://github.com/google-research/vision_transformer#lit-models)] 
-- `SigLIP` Sigmoid Loss for Language Image Pre-Training. ICCV 2023.  
+  [[Paper](https://arxiv.org/abs/2111.07991)] [[Code](https://github.com/google-research/vision_transformer#lit-models)]   
+- `SigLIP` Sigmoid Loss for Language Image Pre-Training. ICCV 2023.   
   [[Paper](https://arxiv.org/abs/2303.15343)] [[Code](https://github.com/google-research/big_vision)]  
 - `AlphaCLIP` Alpha-CLIP: A CLIP Model Focusing on Wherever You Want. CVPR 2024.  
-  [[Paper](https://arxiv.org/abs/2312.03818)] [[Code](https://github.com/SunzeY/AlphaCLIP)] 
+  [[Paper](https://arxiv.org/abs/2312.03818)] [[Code](https://github.com/SunzeY/AlphaCLIP)]   
+- `MobileCLIP` MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training. CVPR 2024.   
+  [[Paper](https://arxiv.org/abs/2311.17049)] [[Code](https://github.com/apple/ml-mobileclip)]   
 - `LongCLIP` Long-CLIP: Unlocking the Long-Text Capability of CLIP. ECCV 2024.  
-  [[Paper](https://arxiv.org/abs/2403.15378)] [[Code](https://github.com/beichenzbc/Long-CLIP)]
+  [[Paper](https://arxiv.org/abs/2403.15378)] [[Code](https://github.com/beichenzbc/Long-CLIP)]   
 - `CLIP-Refine` Post-pre-training for Modality Alignment in Vision-Language Foundation Models. CVPR 2025.   
-  [[Paper](https://arxiv.org/abs/2504.12717)] [[Code](https://github.com/yshinya6/clip-refine)]
+  [[Paper](https://arxiv.org/abs/2504.12717)] [[Code](https://github.com/yshinya6/clip-refine)]   
 - `MSTA`Efficient Transfer Learning for Video-language Foundation Models. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2411.11223)] [[Code](https://github.com/chenhaoxing/ETL4Video)]    
+  [[Paper](https://arxiv.org/abs/2411.11223)] [[Code](https://github.com/chenhaoxing/ETL4Video)]    
 - `TAPT` TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2411.13136)] [Code(Not provided)]   
+  [[Paper](https://arxiv.org/abs/2411.13136)] [Code(Not provided)]   
 - `SAIL` Assessing and Learning Alignment of Unimodal Vision and Language Models. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2412.04616)] [[Code](https://lezhang7.github.io/sail.github.io/)]   
+  [[Paper](https://arxiv.org/abs/2412.04616)] [[Code](https://lezhang7.github.io/sail.github.io/)]   
 - `StatA` Realistic Test-Time Adaptation of Vision-Language Models. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2501.03729)] [[Code](https://github.com/MaxZanella/StatA)]
+  [[Paper](https://arxiv.org/abs/2501.03729)] [[Code](https://github.com/MaxZanella/StatA)]   
 - `2SFS` Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2503.11609)] [[Code](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)]
+  [[Paper](https://arxiv.org/abs/2503.11609)] [[Code](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)]   
 - `GDE` Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2503.17142)] [[Code](https://github.com/BerasiDavide/vlm_image_compositionality)]   
+  [[Paper](https://arxiv.org/abs/2503.17142)] [[Code](https://github.com/BerasiDavide/vlm_image_compositionality)]   
 - `O-TPT` O-TPT: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in Vision-Language Models. CVPR 2025.   
-[[Paper](https://arxiv.org/abs/2503.12096)] [[Code](https://github.com/ashshaksharifdeen/O-TPT)]   
+  [[Paper](https://arxiv.org/abs/2503.12096)] [[Code](https://github.com/ashshaksharifdeen/O-TPT)]   
 
 
 ## Large VLM Models
