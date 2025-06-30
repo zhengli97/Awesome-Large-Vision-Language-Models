@@ -59,10 +59,18 @@ A curated list of large vision language models and related works.
 
 ## CoT
 
+- Toolformer: Language Models Can Teach Themselves to Use Tools. NeurIPS 2023.   
+[[Paper](https://arxiv.org/abs/2302.04761)]   
+- Multimodal Chain of Thought Reasoning in Language Models. TMLR 2023.   
+[[Paper](https://arxiv.org/abs/2302.00923)]   
+- `SatLM` SatLM: Satisfiability-Aided Language Models Using Declarative Prompting. NeurIPS 2023.   
+[[Paper](https://arxiv.org/abs/2305.09656)]   
+- Active Prompting with Chain-of-Thought for Large Language Models. ACL 2024.   
+[[Paper](https://arxiv.org/abs/2302.12246)]   
 - `LLaVa-CoT` LLaVA-CoT: Let Vision Language Models Reason Step-by-Step. arxiv.   
-  [[Paper](https://arxiv.org/abs/2411.10440)] [[Code](https://github.com/PKU-YuanGroup/LLaVA-CoT)]   
+[[Paper](https://arxiv.org/abs/2411.10440)] [[Code](https://github.com/PKU-YuanGroup/LLaVA-CoT)]   
 - `CoMT` CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models. AAAI 2025.   
-  [[Paper](https://arxiv.org/abs/2412.12932)]
+[[Paper](https://arxiv.org/abs/2412.12932)]
 
 ## Reasoning
 - `Critic-V` Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning. CVPR 2025.  
@@ -113,8 +121,8 @@ A curated list of large vision language models and related works.
 [[Paper](https://arxiv.org/abs/2410.17247)] [[Code](https://github.com/Cooperx521/PyramidDrop)]   
 
 arxiv:
-- `PruMerge` LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models. arxiv 24.
-[[Paper](https://arxiv.org/abs/2403.15388)] [[Code](https://llava-prumerge.github.io/)]   
+- `PruMerge` LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models. arxiv 24.   
+[[Paper](https://arxiv.org/abs/2403.15388)] [[Code](https://llava-prumerge.github.io/)]    
 - `YOPO` Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See. arxiv 24.   
 [[Paper](https://arxiv.org/abs/2410.06169)] [[Code](https://github.com/ZhangAIPI/YOPO_MLLM_Pruning)]   
 - `LRS-VQA` When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning. arxiv 25.   
